@@ -1,1 +1,4 @@
-# scientific_computing
+# Scientific Computing
+
+## 👤 Author
+- Fabien ALLEMAND
